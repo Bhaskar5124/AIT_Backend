@@ -75,8 +75,6 @@ export async function contactController(req, res) {
         <p><b>Email:</b> ${email}</p>
         <p><b>Phone:</b> ${phone}</p>
         <p><b>Message:</b> ${message}</p>
-        <p><b>Experience:</b> ${clientSelectedExperience}</p>
-        <p><b>Budget:</b> ${clientBudget}</p>
       `
     });
 
